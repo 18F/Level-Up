@@ -1,6 +1,8 @@
-# Open Source Program Template
+# Level Up
 
-This is a template for an advanced microsite.  
+This is the homesite for level up – a fully distributed, half-day, peer-to-peer learning event. 
+
+This uses the federalist template for an advanced microsite.  
 
 ----
 
@@ -13,14 +15,6 @@ This is a template for an advanced microsite.
 Please refer to those sites for information on getting started and configuration. We'll address
 _some_ configuration here and, where practical, will refer you to details.
 
-
-### Getting started
-
-- Clone this repo
-- Set ```gh-pages``` as the default branch
-- Point your web browser to http://username.github.io/microsite-template 
-- The "How to Configure This Site" page has detailed instruction~s on configuring the site
-- Edit content with your favorite editor or prose.io
 
 ----
 
