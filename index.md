@@ -17,5 +17,6 @@ Here is how the half-day will go:
 - 2:40 - 3:40 pm: [Snack party]({{site.baseurl}}/pages/breakout.html) with assigned “tables” where you’ll have a chance to meet team members from around TTS. Bring a snack to enjoy!
 - 3:40 - 3:45 pm: Transition
 - 3:45 - 4:45 pm:[Lessons learned sessions]({{site.baseurl}}/pages/lessons.html) — staff-led discussions in groups of 10 - 15; these are stories of failure or wild success that others can learn from
-- 4:45 - 5:00 pm: [All-team closing session](https://www.youtube.com/watch?v=tl5T-VQOw8E). Now its time to say goodbye. Shout out what you learned (on slack) and hear about next steps. 
+- 4:45 - 4:50 pm: Transition 
+- 4:50 - 5:00 pm: [All-team closing session](https://www.youtube.com/watch?v=tl5T-VQOw8E). Now its time to say goodbye. Shout out what you learned (on slack) and hear about next steps. 
 
