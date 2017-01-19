@@ -26,7 +26,7 @@ baseurl: '/level-up'
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: Thomas Jefferson 
+  name: TTS 
   url: http://localhost:4000
 
 # ------------------------------------------------------------------
@@ -41,8 +41,8 @@ navigation:
 - text: Unconference Sessions
   url: pages/unconference.html
   internal: true
-- text: Snacky Breakouts 
-  url: pages/breakout.html
+- text: Snack Party 
+  url: pages/snackparty.html
   internal: true
 - text: Lessons Learned
   url: pages/lessons.html

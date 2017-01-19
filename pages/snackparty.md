@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Snacky Breakouts
+title: Snack Party
 published: true
 ---
 
