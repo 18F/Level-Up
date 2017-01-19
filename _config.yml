@@ -7,9 +7,9 @@ markdown: kramdown
 repo_name: microsite-template
 branch: gh-pages
 #GitHub organization name *or* username
-gh_org: USG-Website-Templates
+gh_org: 18f
 prose_url: http://prose.io
-site_url: https://USG-Website-Templates.github.io/microsite-template
+site_url: https://pages.18f.gov/Level-Up/
 media: assets/img
 
 
