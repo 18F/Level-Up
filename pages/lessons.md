@@ -4,7 +4,7 @@ title: Lessons Learned
 published: true
 ---
 
-##### Sign up for your sessions [here](https://goo.gl/forms/CY4MNFwldViytK3r2). Space is limited, so sign up early. 
+##### Sign up for your sessions [here](https://goo.gl/forms/CY4MNFwldViytK3r2). Space is limited, so sign up early to guarantee yourself a spot. This will also help our session leaders prepare. 
 
 ----------------------------------------
 
@@ -111,8 +111,7 @@ published: true
 
 ### Have any questions? Hit us up in #level-up.
 
-##### Sign up for your sessions [here](https://goo.gl/forms/CY4MNFwldViytK3r2). Space is limited, so sign up early. 
-
+##### Sign up for your sessions [here](https://goo.gl/forms/CY4MNFwldViytK3r2). Space is limited, so sign up early to guarantee yourself a spot. This will also help our session leaders prepare. 
 
 
 

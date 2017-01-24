@@ -410,8 +410,7 @@ If you don't see your name or have any questions, hit us up in #level-up
 
 -------------------------------------------
 
-##### Sign up for your sessions [here](https://goo.gl/forms/CY4MNFwldViytK3r2). Space is limited, so sign up early. 
-
+##### Sign up for your sessions [here](https://goo.gl/forms/CY4MNFwldViytK3r2). Space is limited, so sign up early to guarantee yourself a spot. This will also help our session leaders prepare. 
 
 
 
