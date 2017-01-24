@@ -55,7 +55,7 @@ published: true
 	- [LU-Room-8](https://hangouts.google.com/hangouts/_/gsa.gov/lu-room-8?hl=en&authuser=0)
 	- Slack channel: #lu-military-101
 
-- **What is Product?**
+- **What is Product Management?**
 	- What are Product Managers? How are they different from product strategists and project managers? What do they add in a government context? All this, and more!
 	- Topic: Technical
 	- Hosts: Nikki Lee + Michael Torres

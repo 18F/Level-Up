@@ -169,6 +169,7 @@ If you don't see your name or have any questions, hit us up in #level-up
 - Brad Nunnally
 - Brendan Sudol
 - Kara DeFrias
+- Robert H’obbes' Zakon
 
 ### [Table 14](https://hangouts.google.com/hangouts/_/gsa.gov/lu-room-14?hl=en&authuser=0)
 
@@ -202,7 +203,6 @@ If you don't see your name or have any questions, hit us up in #level-up
 - CM Lubinski
 - Jacob Kaplan-Moss
 - Micah Taylor
-- Nathan Smith
 - Shashank Khandelwal
 - Noah Manger
 - Alan Atlas
@@ -218,7 +218,6 @@ If you don't see your name or have any questions, hit us up in #level-up
 - Chris Cairns
 - Nathan Olson
 - Laura Godfrey 
-- Erik Arnold
 - Colin MacArthur
 
 ### [Table 18](https://hangouts.google.com/hangouts/_/gsa.gov/lu-room-18?hl=en&authuser=0)
@@ -364,7 +363,6 @@ If you don't see your name or have any questions, hit us up in #level-up
 
 ### [Table 29](https://hangouts.google.com/hangouts/_/gsa.gov/lu-room-29?hl=en&authuser=0)
 
-- Joshua Farrar
 - Elaine Kamlley
 - Jennifer Tress
 - Kathryn Edelman
