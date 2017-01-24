@@ -25,3 +25,5 @@ published: true
 ### Have any questions? Hit us up in #level-up.
 
 ##### Can't make it? [Let us know](https://goo.gl/forms/Pk91d4Hnx6xKFvQh2).
+
+(FYI: Tock your time with us using: `Training/Professional Development`)
