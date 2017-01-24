@@ -45,14 +45,14 @@ published: true
 	- Notes will be taken [here](https://docs.google.com/a/gsa.gov/document/d/1qW0gBafmLocu7_LCd7Bvj8pksAagG6_JkaawLDiGJCM/edit?usp=sharing)
 
 - **How to communicate with customers about price increases**
-	- Sites.usa.gov and DigitalGov Search may be headed down the path of charging for services that are currently no cost. How do we talk about this with customers? What have others learned as they've done this? How do you get customer ideas for what a service with a cost should do or be, while avoiding getting more than you can implement? 
+	- Some Smarter IT Delivery Portfolio programs may be headed down the path of charging for services that are currently no cost. How do we talk about this with customers? What have others learned as they've done this? How do you get customer ideas for what a service with a cost should do or be, while avoiding getting more than you can implement? 
 	- Topic: Client Engagement
 	- Hosts: Karen Trebon
 	- [LU-Room-7](https://hangouts.google.com/hangouts/_/gsa.gov/lu-room-7?hl=en&authuser=0)
 	- Slack channel: 
 
 - **What cloud.gov wishes we'd known before starting the FedRAMP JAB P-ATO process**
-	- The cloud.gov team learned a lot from FedRAMP's rigorous Joint Authorization Board (JAB) Provisional Authority to Operate (P-ATO) process. We ran into some bumps along the way, including having to rewrite a lot of our System Security Plan. Let's talk about what we learned and how it can help you with your ATOs.
+	- The cloud.gov team learned a lot from FedRAMP's rigorous Joint Authorization Board (JAB) Provisional Authority to Operate (P-ATO) process. Let's talk about what we learned and how it can help you with your ATOs.
 	- Topic: Technical
 	- Hosts: Britta Gustafson
 	- [LU-Room-8](https://hangouts.google.com/hangouts/_/gsa.gov/lu-room-8?hl=en&authuser=0)

@@ -241,6 +241,7 @@ If you don't see your name or have any questions, hit us up in #level-up
 - Julia Elman
 - Diane D. Devera
 - Dan Williams
+- Holly Allen
 - Joanne P. McGovern
 - Arlene Hernandez
 - Josh Ruihley
