@@ -110,7 +110,7 @@ published: true
 	- Topic: Methodology
 	- Host: Fureigh
 	- [LU-Room-17](https://hangouts.google.com/hangouts/_/gsa.gov/lu-room-17?hl=en&authuser=0)
-	- Slack channel: 
+	- Slack channel: #lu-lean-startup
 
 - **Report retro! Strategies for writing better research reports**
 	- During this retro, folks will come together to discuss language choices that have worked (or haven't) for the reports they've worked on. Based on the outcomes of this retro, the group will draft a set of report design principles accessible to everyone at 18F. 
