@@ -30,14 +30,8 @@ published: true
 	- [LU-Room-4](https://hangouts.google.com/hangouts/_/gsa.gov/lu-room-4?hl=en&authuser=0)
 	- Slack channel:  
 
-- **Top Tips for rebooting a pilot program**
-	- Connect.Gov is Dead, Long Live Login.gov
-	- Topic: Technical
-	- Host: Jonathan Prisby
-	- [LU-Room-5](https://hangouts.google.com/hangouts/_/gsa.gov/lu-room-5?hl=en&authuser=0)
-	- Slack channel:
 
-- **To the moon and back: Cancer Moonshot lessons learned**
+- **FULL: To the moon and back: Cancer Moonshot lessons learned**
 	- Kara led experience design and digital for Vice President Biden’s Cancer Moonshot initiative, with one goal in mind: connect the Moonshot to the people. How do you work effectively across multiple agencies, advocacy groups, and nonprofits? How do you involve people who don't have a Ph.D. in kicking cancer's ass but want to help? Learn about her approach to designing for meaningful outcomes, as well as the key results.	- Topic: Technical
 	- Hosts: Kara DeFrias
 	- [LU-Room-6](https://hangouts.google.com/hangouts/_/gsa.gov/lu-room-6?hl=en&authuser=0)

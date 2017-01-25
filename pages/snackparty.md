@@ -4,7 +4,7 @@ title: Snack Party
 published: true
 ---
 
-Snack party is a chance to "sit" and chat with team members from around TTS. Find your table and bring a snack to enjoy! 
+Snack party is a chance to "sit" and chat with team members from around TTS. Find your table and bring a snack to enjoy! Your table number is a link to your google hangout. 
 
 If you don't see your name or have any questions, hit us up in #level-up
 
@@ -32,6 +32,7 @@ If you don't see your name or have any questions, hit us up in #level-up
 - Jay Finch
 - Carolyn J. Kaleel
 - Gilbert Morgan
+- Rebecca Refoy-Sidibe
 - Jennifer Thibault
 - Antoinette "An-g" Lipford 
 - Amber Reed
