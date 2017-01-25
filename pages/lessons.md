@@ -65,7 +65,7 @@ published: true
 	- [LU-Room-9](https://hangouts.google.com/hangouts/_/gsa.gov/lu-room-9?hl=en&authuser=0)
 	- Slack channel: 
 
-- **How to read organizations: a field manual to position our work for impact.**
+- **FULL: How to read organizations: a field manual to position our work for impact.**
 	- Tips and tricks for understanding how structure can affect our partner's work. You'll learn the basic designs of organizations, their associated trade-offs, and how that limits or enables product development.
 	- Topic: Client Engagement
 	- Host: Michael Cata

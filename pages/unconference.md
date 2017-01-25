@@ -20,7 +20,7 @@ published: true
 	- [LU-Room-2](https://plus.google.com/hangouts/_/gsa.gov/lu-room-2?hceid=Z3NhLmdvdl9vc2c0cmo0YmRtNnZzMmh0cWkyOXFrMDAwb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t.9ci3etjeom92ipmmovod3e48ak&authuser=0)
 	- Slack channel: #lu-email-marketing
 
-- **How to get your clients to love you: critical skills for humans who consult**
+- **FULL: How to get your clients to love you: critical skills for humans who consult**
 	- You're an expensive outsider asking people under serious pressure to change their core habits, and often telling them things they were hoping not to hear. This can be a win-win. Let's talk about how.
 	- Topic: Client Engagement
 	- Host: Cyd Harrell
