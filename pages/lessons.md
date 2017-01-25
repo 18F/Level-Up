@@ -93,7 +93,7 @@ published: true
 	- [LU-Room-14](https://hangouts.google.com/hangouts/_/gsa.gov/lu-room-14?hl=en&authuser=0)
 	- Slack channel: #wg-compliance
 
-- **Developing a productive working relationship with OGC: Lessons Learned**
+- **FULL Developing a productive working relationship with OGC: Lessons Learned**
 	- In the year and a half I've been at 18F, I've gone up against OGC multiple times, and lost most of my arguments—sometimes quite badly. As a result, I've gotten a lot better at it, and I suspect others have as well. Let's talk tips and tricks for how to have a productive working relationship with our lawyers, getting what we want to do done while remaining within the regulatory and legal boundaries that guide us all.
 	- Topic: Client Engagement
 	- Host: Lane Becker

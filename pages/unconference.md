@@ -14,7 +14,7 @@ published: true
 	- Slack channel: #lu-compassion
 
 - **Email Marketing: A Tool for Grand Dissemination and Transactional Opportunities** 
-	- How do we best maximize our communication channels? USAGov boasts a near 800,000 email subscribers. Right now, we send information that is timely, partner with other federal agencies on promotional efforts, and use it to market our products and services. How can we capitalize on this vehicle to improve customer experience with the government? 
+	- How do we best maximize our communication channels? USAGov boasts a near 800,000 email subscribers. Right now, we sendH information that is timely, partner with other federal agencies on promotional efforts, and use it to market our products and services. How can we capitalize on this vehicle to improve customer experience with the government? 
 	- Topic: Client Engagement
 	- Host: Victoria Wales 
 	- [LU-Room-2](https://plus.google.com/hangouts/_/gsa.gov/lu-room-2?hceid=Z3NhLmdvdl9vc2c0cmo0YmRtNnZzMmh0cWkyOXFrMDAwb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t.9ci3etjeom92ipmmovod3e48ak&authuser=0)
@@ -55,7 +55,7 @@ published: true
 	- [LU-Room-8](https://hangouts.google.com/hangouts/_/gsa.gov/lu-room-8?hl=en&authuser=0)
 	- Slack channel: #lu-military-101
 
-- **What is Product Management?**
+- **FULL What is Product Management?**
 	- What are Product Managers? How are they different from product strategists and project managers? What do they add in a government context? All this, and more!
 	- Topic: Technical
 	- Hosts: Nikki Lee + Michael Torres
