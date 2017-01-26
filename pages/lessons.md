@@ -9,8 +9,7 @@ published: true
 ----------------------------------------
 
 
-- **Working in grayscale** 
-	- I've changed my phone and computers to grayscale. In many ways it's been an interesting experience with some surprising lessons. 
+- **Lessons learned from the sideline of the OGC/incentives issue** 
 	- Topic: Technical
 	- Host: John Yuda
 	- [LU-Room-2](https://plus.google.com/hangouts/_/gsa.gov/lu-room-2?hceid=Z3NhLmdvdl9vc2c0cmo0YmRtNnZzMmh0cWkyOXFrMDAwb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t.9ci3etjeom92ipmmovod3e48ak&authuser=0)
@@ -52,7 +51,7 @@ published: true
 	- [LU-Room-8](https://hangouts.google.com/hangouts/_/gsa.gov/lu-room-8?hl=en&authuser=0)
 	- Slack channel: #wg-compliance
 
-- **Hacking the bureaucracy at the FBI: Navigating toward more systemic change**
+- **FULL Hacking the bureaucracy at the FBI: Navigating toward more systemic change**
 	- In our work with the FBI, they initially came to us with a technical solution in the form of a "portal". We navigated the bureaucracy and held our ground (firmly but diplomatically), to get to something that is much deeper requiring organizational change, including roles, responsibilities, process and technology.
 	- Topic: Client Engagement
 	- Host: Steven Babitch
