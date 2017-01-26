@@ -22,12 +22,12 @@ published: true
 	- [LU-Room-3](https://plus.google.com/hangouts/_/gsa.gov/lu-room-3?hceid=Z3NhLmdvdl9vc2c0cmo0YmRtNnZzMmh0cWkyOXFrMDAwb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t.lqolm510qb8473mmoi20gcj5k8&authuser=0)
 	- Slack channel: #lu-seo-for-egov
 
-- **Building Bridges: the Journey to Work as One GSA**
-	- An 18F Agency Partnerships initiative is to work together in greater harmony with our two sister business lines: the Federal Acquisition Service (FAS) and the Public Buildings Service (PBS). AP began this effort with FAS and is in the process of building bridges between our organizations through a series of collaborative conversations. This dialogue has been instrumental in providing clarity around our unique efforts, but more importantly, reminding each of our teams why we joined GSA: to carry out the shared mission of public service.
+- **Building Bridges: The journey to work as one GSA**
+	- 18F Agency Partnerships and Outreach are both trying to work together in greater harmony with our two sister business lines: the Federal Acquisition Service (FAS) and the Public Buildings Service (PBS). We are in the process of building bridges between our organizations through a series of collaborative conversations. This dialogue has been instrumental in providing clarity around our unique efforts, but more importantly, reminding each of our teams why we joined GSA: to carry out the shared mission of public service.
 	- Topic: Client Engagement
-	- Host: Dan Kenny
+	- Host: Dan Kenny + Greg Boone
 	- [LU-Room-4](https://hangouts.google.com/hangouts/_/gsa.gov/lu-room-4?hl=en&authuser=0)
-	- Slack channel:  
+	- Slack channel: #building-bridges-gsa
 
 
 - **FULL: To the moon and back: Cancer Moonshot lessons learned**
@@ -64,13 +64,6 @@ published: true
 	- Host: Michael Cata
 	- [LU-Room-10](https://hangouts.google.com/hangouts/_/gsa.gov/lu-room-10?hl=en&authuser=0)
 	- Slack channel: #organizations
-
-- **What I learned visiting the GSA regional HQ**
-	- When I joined the GSA I was told it was best known as "The Government's Landlord." When I moved to Denver and started meeting people from all over the regional office, I learned that's about much more than collecting rent checks from other agencies. Many of the other programs at GSA have similar goals to ours: Providing a service or product to help agencies focus on serving their mission. Now that the TTS is a full service, let's brainstorm ways we can form partnerships and otherwise collaborate with our peer services.
-	- Topic: Client Engagement
-	- Host: Greg Boone
-	- [LU-Room-11](https://hangouts.google.com/hangouts/_/gsa.gov/lu-room-11?hl=en&authuser=0)
-	- Slack channel: 
 
 - **How to bring data science to 18F projects**
 	- During my session I'll talk about my work on the CALC project and how I am using timeseries prediction to add value to the project.  I'll discuss what I learned along the way of writing the code and what I would have done differently if I started from scratch.
