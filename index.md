@@ -20,10 +20,12 @@ published: true
 - 4:45 - 4:50 pm ET: Transition 
 - 4:50 - 5:00 pm ET: [All-team closing session](https://www.youtube.com/watch?v=tl5T-VQOw8E). Now its time to say goodbye. Shout out what you learned (on slack) and hear about next steps. 
 
-### Sign up for your sessions [here](https://goo.gl/forms/CY4MNFwldViytK3r2). Space is limited, so sign up early to guarantee yourself a spot. This will also help our session leaders prepare. 
+**Want to take a break, hangout or just say hi? We set up a [#hi room](https://zoom.us/j/7734833580)!** 
+
 
 ### Have any questions? Hit us up in #level-up.
 
-##### Can't make it? [Let us know](https://goo.gl/forms/Pk91d4Hnx6xKFvQh2). The final headcount is really important for planning and getting ahead of technical issues.  
+##### Sign up for your sessions [here](https://goo.gl/forms/CY4MNFwldViytK3r2). Space is limited, so sign up early to guarantee yourself a spot. This will also help our session leaders prepare. 
+  
 
 (FYI: Tock your time with us using: `Training/Professional Development`)
