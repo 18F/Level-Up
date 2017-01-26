@@ -6,7 +6,7 @@ published: true
 ##### Sign up for your sessions [here](https://goo.gl/forms/CY4MNFwldViytK3r2). Space is limited, so sign up early to guarantee yourself a spot. This will also help our session leaders prepare. 
 
 ----------------------------------------
-- **Approaching challenging people with compassion** 
+- **FULL Approaching challenging people with compassion** 
 	- We frequently interact with people who can frustrate or block us. They may be impediments to us making progress or people who have untapped potential. I'd like to run an exercise aimed at understanding what's driving the person to act the way they do, followed by a discussion of how we can make that person an ally. 
 	- Topic: Client Engagement
 	- Host: Ed Mullen 
@@ -98,7 +98,7 @@ published: true
 	- [LU-Room-15](https://hangouts.google.com/hangouts/_/gsa.gov/lu-room-15?hl=en&authuser=0)
 	- Slack channel: #mentorship
 
-- **How We Are Making Hiring More Diverse and Inclusive**
+- **Engineering chapter: How We Are Making Hiring More Diverse and Inclusive**
 	- A synopsis of how we are making our hiring process more diverse and inclusive. Also, we can brainstorm how to take it to the next level. 
 	- Topic: Methodology
 	- Host: James Scott
