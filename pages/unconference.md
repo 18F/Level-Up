@@ -6,6 +6,8 @@ published: true
 ##### Sign up for your sessions [here](https://goo.gl/forms/CY4MNFwldViytK3r2). Space is limited, so sign up early to guarantee yourself a spot. This will also help our session leaders prepare. 
 
 ----------------------------------------
+
+
 - **FULL Approaching challenging people with compassion** 
 	- We frequently interact with people who can frustrate or block us. They may be impediments to us making progress or people who have untapped potential. I'd like to run an exercise aimed at understanding what's driving the person to act the way they do, followed by a discussion of how we can make that person an ally. 
 	- Topic: Client Engagement
@@ -32,6 +34,13 @@ published: true
 	- Host: Will Slack
 	- [LU-Room-4](https://hangouts.google.com/hangouts/_/gsa.gov/lu-room-4?hl=en&authuser=0)
 	- Slack channel: #products-plat-bkchnel 
+
+- **Design in Government: Treating the Organization as a Design Challenge**
+	- Building great products requires meeting both customer and organizational needs. In this session, we'll discuss the unique challenges of designing in government and explore mindsets for maximizing organizational impact.
+	- Topic: Methodology
+	- Host: Matt Ford
+	- [LU-Room-5](https://hangouts.google.com/hangouts/_/gsa.gov/lu-room-5?hl=en&authuser=0)
+	- Slack channel: 
 
 - **Hacking Humans: An Engineer's Guide to Effecting Cultural Change**
 	- Many of us with largely technical background may feel uncertain when our work involves challenging assumptions or guiding clients to new ways of thinking. What works and what doesn't? And how do we get better at this valuable skill?  This is a  (http://leancoffee.org) session, so we'll take 5-10 minutes to learn Lean Coffee (a great technique for democratized meetings), and then dive in to the topics you want to share or explore. 
