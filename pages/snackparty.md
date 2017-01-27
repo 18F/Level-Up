@@ -6,7 +6,11 @@ published: true
 
 Snack party is a chance to "sit" and chat with team members from around TTS. Find your table and bring a snack to enjoy! Your table number is a link to your google hangout. 
 
+Here is the [facilitation guide](https://docs.google.com/a/gsa.gov/document/d/1oUlRVnTX02Sp2u84fkk6iNawKseJ01fYBHW8HmwX0dU/edit?usp=sharing), to see how the hour will go. 
+
 If you don't see your name or have any questions, hit us up in #level-up
+
+
 
 ----------------------------------------
 
