@@ -79,10 +79,9 @@ published: true
 	- [LU-Room-13](https://hangouts.google.com/hangouts/_/gsa.gov/lu-room-13?hl=en&authuser=0)
 	- Slack channel: #lu-changing-jobs
 
-- **Data.gov Lessons Learned during Cloud Migration**
+- **CANCELLED: Data.gov Lessons Learned during Cloud Migration**
 	- Topic: Technical
 	- Host: John Jediny
-	- [LU-Room-14](https://hangouts.google.com/hangouts/_/gsa.gov/lu-room-14?hl=en&authuser=0)
 	- Slack channel: #wg-compliance
 
 - **FULL Developing a productive working relationship with OGC: Lessons Learned**
