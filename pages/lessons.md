@@ -56,7 +56,7 @@ published: true
 	- Topic: Client Engagement
 	- Host: Steven Babitch
 	- [LU-Room-9](https://hangouts.google.com/hangouts/_/gsa.gov/lu-room-9?hl=en&authuser=0)
-	- Slack channel: 
+	- Slack channel: #lu-fbi
 
 - **FULL: How to read organizations: a field manual to position our work for impact.**
 	- Tips and tricks for understanding how structure can affect our partner's work. You'll learn the basic designs of organizations, their associated trade-offs, and how that limits or enables product development.
@@ -65,7 +65,7 @@ published: true
 	- [LU-Room-10](https://hangouts.google.com/hangouts/_/gsa.gov/lu-room-10?hl=en&authuser=0)
 	- Slack channel: #organizations
 
-- **How to bring data science to 18F projects**
+- **FULL How to bring data science to 18F projects**
 	- During my session I'll talk about my work on the CALC project and how I am using timeseries prediction to add value to the project.  I'll discuss what I learned along the way of writing the code and what I would have done differently if I started from scratch.
 	- Topic: Technical
 	- Host: Eric Schles

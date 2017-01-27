@@ -71,7 +71,7 @@ published: true
 	- [LU-Room-9](https://hangouts.google.com/hangouts/_/gsa.gov/lu-room-9?hl=en&authuser=0)
 	- Slack channel: #product
 
-- **Fostering Resilience**
+- **FULL Fostering Resilience**
 	- How can we support people’s mental health during times of change? In this session, we’ll explore ways to help people stay productive and work through short and long-term stressors (like administrative changes, difficult life events, and the ongoing uphill work of transforming government).
 	- Topic: Personal Development
 	- Host: Nicole Fenton

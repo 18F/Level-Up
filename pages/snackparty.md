@@ -133,7 +133,7 @@ If you don't see your name or have any questions, hit us up in #level-up
 - Maria Luisa Rossel
 - Jessie Posilkin
 - Marshall J. Brown
-- Kelly Confer
+- Kelley Confer
 - Amber R. Van Amburg
 - Dan Kenny
 - Kate Garklavs
@@ -355,7 +355,6 @@ If you don't see your name or have any questions, hit us up in #level-up
 - Dan Shick
 - Nadine Haddad
 - Victoria Wales
-- Brandon Kirby
 - Rob Cook
 - Kathryn Vanzant
 - Dale Roach
