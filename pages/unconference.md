@@ -120,6 +120,8 @@ published: true
 	- Host: Fureigh
 	- [LU-Room-17](https://hangouts.google.com/hangouts/_/gsa.gov/lu-room-17?hl=en&authuser=0)
 	- Slack channel: #lu-lean-startup
+	- [Notes](https://docs.google.com/document/d/14iiZmqqrfHK7Hb212CFr5AIgeBD6OkddQj1-95cIZ0k/edit)
+	- [Slides](https://docs.google.com/presentation/d/1nnxeS-0iah3fLzW86SAlrSFSfDj3Odz3tWdCRAE0lls/edit)
 
 - **Report retro! Strategies for writing better research reports**
 	- During this retro, folks will come together to discuss language choices that have worked (or haven't) for the reports they've worked on. Based on the outcomes of this retro, the group will draft a set of report design principles accessible to everyone at 18F. 
