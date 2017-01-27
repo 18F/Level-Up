@@ -18,7 +18,7 @@ published: true
 - 3:40 - 3:45 pm ET: Transition
 - 3:45 - 4:45 pm ET:[Lessons learned sessions]({{site.baseurl}}/pages/lessons.html) are staff-led discussions in groups of 10 - 15; these are stories of failure or wild success that others can learn from
 - 4:45 - 4:50 pm ET: Transition 
-- 4:50 - 5:00 pm ET: [All-team closing session](https://www.youtube.com/watch?v=tl5T-VQOw8E). Now its time to say goodbye. Shout out what you learned (on slack) and hear about next steps. 
+- 4:50 - 5:00 pm ET: [All-team closing session](https://www.youtube.com/watch?v=tl5T-VQOw8E). Now it's time to say goodbye. Shout out what you learned (on slack) and hear about next steps. 
 
 **Want to take a break, hangout or just say hi? We set up a [#hi room](https://zoom.us/j/7734833580)!** 
 
