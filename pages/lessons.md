@@ -22,7 +22,7 @@ published: true
 	- [LU-Room-3](https://plus.google.com/hangouts/_/gsa.gov/lu-room-3?hceid=Z3NhLmdvdl9vc2c0cmo0YmRtNnZzMmh0cWkyOXFrMDAwb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t.lqolm510qb8473mmoi20gcj5k8&authuser=0)
 	- Slack channel: #lu-seo-for-egov
 
-- **Building Bridges: The journey to work as one GSA**
+- **FULL Building Bridges: The journey to work as one GSA**
 	- 18F Agency Partnerships and Outreach are both trying to work together in greater harmony with our two sister business lines: the Federal Acquisition Service (FAS) and the Public Buildings Service (PBS). We are in the process of building bridges between our organizations through a series of collaborative conversations. This dialogue has been instrumental in providing clarity around our unique efforts, but more importantly, reminding each of our teams why we joined GSA: to carry out the shared mission of public service.
 	- Topic: Client Engagement
 	- Host: Dan Kenny + Greg Boone
